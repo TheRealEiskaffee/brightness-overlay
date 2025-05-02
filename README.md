@@ -34,6 +34,8 @@ url: /local/brightness-overlay.js?v=1.0.1
 
 ### HACS (Home Assistant Community Store)
 
+> 💡 When adding this via **HACS > Custom Repositories**, make sure to set the **category to `Dashboard`** if `Frontend` is not available in your list.
+
 1. Go to **HACS > Frontend**
 2. Click the three dots (⋮) > **Custom Repositories**
 3. Add this repository:
