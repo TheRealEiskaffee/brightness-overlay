@@ -1,0 +1,13 @@
+{
+  "name": "Brightness Overlay",
+  "filename": "brightness-overlay.js",
+  "render_readme": true,
+  "description": "Dim your Home Assistant dashboard globally using an entity.",
+  "version": "1.0.1",
+  "type": "module",
+  "keywords": ["brightness", "overlay", "lovelace", "dashboard", "custom card", "dim"],
+  "authors": ["TheRealEiskaffee"],
+  "homeassistant": "2023.0.0",
+  "documentation": "https://github.com/TheRealEiskaffee/brightness-overlay",
+  "repository": "https://github.com/TheRealEiskaffee/brightness-overlay"
+}
