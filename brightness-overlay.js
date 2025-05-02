@@ -77,7 +77,7 @@ function start() {
   window.addEventListener("location-changed", () => {
     setTimeout(() => {
       applyBrightnessOverlayIfConfigured();
-    }, 200); // kurze Verzögerung, bis panel bereit
+    }, 200);
   });
 }
 
