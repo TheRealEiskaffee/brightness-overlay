@@ -1,4 +1,4 @@
-# 🌓 Brightness Overlay
+# 🌓 Brightness Overlay - Home-Assistant
 
 Dim your entire Home Assistant dashboard using the value of any numeric entity. Perfect for creating day/night modes, visual focus effects, or dynamic ambient dimming.
 
