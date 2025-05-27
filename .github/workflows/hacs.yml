@@ -4,6 +4,7 @@ on:
   workflow_dispatch: # manuelles Auslösen über GitHub UI
   push:
     branches:
+      - master
       - main
   pull_request:
 
