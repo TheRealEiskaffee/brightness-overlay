@@ -13,12 +13,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Zeige Dateien
-        run: ls -al
-        
       - name: Checkout code
         uses: actions/checkout@v4
 
       - name: HACS Action
         uses: hacs/action@22.5.0
-      
+        with:
+          category: plugin
