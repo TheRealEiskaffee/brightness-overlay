@@ -1,8 +1,6 @@
 const OVERLAY_ID = "brightness-overlay";
-const VERSION = "1.0.1";
 let unsubscribe = null;
 
-console.info(`🌓 Brightness Overlay - v${VERSION}`);
 
 function createOverlay() {
   if (document.getElementById(OVERLAY_ID)) return;
