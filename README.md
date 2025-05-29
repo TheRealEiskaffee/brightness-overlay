@@ -19,6 +19,10 @@ Dim your entire Home Assistant dashboard using the value of any numeric entity. 
 
 ## 📦 Installation
 
+### Using HACS
+
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=TheRealEiskaffee&repository=brightness-overlay&category=plugin)
+
 ### Manual
 
 1. Download `brightness-overlay.js` from the [latest release](https://github.com/TheRealEiskaffee/brightness-overlay/releases).
@@ -46,8 +50,6 @@ https://github.com/TheRealEiskaffee/brightness-overlay
 
 4. Set the category to **Frontend**
 5. Install and reload your dashboard
-
-[![Add to HACS](https://img.shields.io/badge/HACS-Add%20Custom%20Repository-blue?logo=home-assistant\&style=for-the-badge)](https://hacs.xyz/docs/faq/custom_repositories/)
 
 > 💡 Once HACS support is approved, this will also be available under HACS > Frontend directly.
 
